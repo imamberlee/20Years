@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #fef6eb;
+  font-size: 13px;
+}
+
+a{
+  color: #395e5a;
+}
+
+canvas {
+  display: block;
+}
+
+p {
+  font-family: arial;
+}
